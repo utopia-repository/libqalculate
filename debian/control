@@ -40,8 +40,8 @@ Section: libs
 Architecture: all
 Multi-Arch: foreign
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Breaks: libqalculate5v5 (<< 0.9.7-7), libqalculate5-data
-Replaces: libqalculate5v5 (<< 0.9.7-7), libqalculate5-data
+Breaks: libqalculate5v5 (<< 0.9.7-7), libqalculate5-data, libqalculate6-data
+Replaces: libqalculate5v5 (<< 0.9.7-7), libqalculate5-data, libqalculate6-data
 Description: Powerful and easy to use desktop calculator - data
  Qalculate! is small and simple to use but with much power and versatility
  underneath.  Features include customizable functions, units, arbitrary
