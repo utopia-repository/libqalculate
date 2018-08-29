@@ -1,4 +1,4 @@
-libqalculate (2.6.2-0utopia1) UNRELEASED; urgency=medium
+libqalculate (2.6.2-0utopia1) unstable; urgency=medium
 
   * Utopia Repository upload:
     - Set myself as maintainer, moving Vincent Legout to
@@ -9,7 +9,7 @@ libqalculate (2.6.2-0utopia1) UNRELEASED; urgency=medium
   * Bump soname version to libqalculate19.
   * Add B-D: doxygen for building API docs.
 
- -- James Lu <james@overdrivenetworks.com>  Tue, 28 Aug 2018 01:00:49 -0700
+ -- James Lu <james@overdrivenetworks.com>  Wed, 29 Aug 2018 00:00:39 -0700
 
 libqalculate (2.2.1-2) experimental; urgency=medium
 
