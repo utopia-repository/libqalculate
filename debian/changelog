@@ -1,7 +1,8 @@
 libqalculate (2.6.2-0.1) UNRELEASED; urgency=medium
 
   * New upstream release.
-  * libqalculate14-data: add Breaks+Replaces on libqalculate6-data (#894112)
+  * libqalculate14-data: add Breaks+Replaces on libqalculate6-data
+    (Closes: #894112)
   * Bump soname version to libqalculate19.
   * Add B-D: doxygen for building API docs.
 
